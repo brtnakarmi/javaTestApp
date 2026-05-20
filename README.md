@@ -16,3 +16,14 @@ Login credentials:
 
 - email: qa@example.com
 - password: password123
+
+## Steps for git
+
+- to clone a new repo `git clone <link to repo>`
+- to pull the changes `git pull`
+- to cut a branch `git checkout -b <branch name>`
+- to add files `git add <file/folder>`
+- to make a commit message `git commit -m <your commit message>`
+- to push changes to the branch `git push`
+- to check the current status of files `git status`
+
